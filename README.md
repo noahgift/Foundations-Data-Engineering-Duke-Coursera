@@ -6,7 +6,13 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 #### Week 1:  Using Linux
 
 ##### Using Linux
+
+* [Coursera-DE-C2-Using-Linux](https://github.com/noahgift/Coursera-DE-C2-Using-Linux/edit/main/README.md)
+
 ##### How shell piping works
+
+* [Coursera-DE-C2-Shell-Piping](https://github.com/noahgift/Coursera-DE-C2-Shell-Piping/blob/main/README.md)
+
 ##### Using SSH
 ##### Final Project
 * [Coursera-DE-C2-Lab1-Linux-Truncate Large File With Bash](https://github.com/noahgift/coursera-de-c2-lab1-linux)
