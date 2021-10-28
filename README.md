@@ -5,9 +5,9 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 
 #### Week 1:  Using Linux
 
-##### Searching the filesystem
-##### Modifying Files, Directories, Permissions and Archiving
-##### Processing Text
+##### Using Linux
+##### How shell piping works
+##### Using SSH
 ##### Final Project
 * [Coursera-DE-C2-Lab1-Linux-Truncate Large File With Bash](https://github.com/noahgift/coursera-de-c2-lab1-linux)
 
