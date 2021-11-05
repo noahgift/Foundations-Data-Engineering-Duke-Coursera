@@ -51,6 +51,9 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 
 #### Week 4:  Composing File and Data Management Solutions with Linux
 ##### Searching the filesystem
+
+* [Coursera-DE-C2-search-commands](https://github.com/noahgift/Coursera-DE-C2-search-commands)
+
 ##### Modifying Files, Directories, Permissions and Archiving
 ##### Processing Text
 ##### Final Project
