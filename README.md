@@ -27,6 +27,9 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 * [Coursera-DE-C2-shell-variables](https://github.com/noahgift/Coursera-DE-C2-shell-variables)
 
 ##### Standard Streams: Using Standard In, Standard Out, Standard Error
+
+* [Coursera-DE-C2-Standard-Streams](https://github.com/noahgift/Coursera-DE-C2-Standard-Streams)
+
 ##### Final Project
 * [Coursera-DE-C2-Lab2-Using-Bash-IO](https://github.com/noahgift/Coursera-DE-C2-Lab2-Using-Bash)
 
