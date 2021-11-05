@@ -20,9 +20,12 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 #### Week 2:  Using Bash
 ##### Configuring the Shell Environment
 
-* [Coursera-DE-C2-Lab1-configure-shell](https://github.com/noahgift/Coursera-DE-C2-configure-shell)
+* [Coursera-DE-C2-configure-shell](https://github.com/noahgift/Coursera-DE-C2-configure-shell)
 
 ##### Working with Shell Variable
+
+* [Coursera-DE-C2-shell-variables](https://github.com/noahgift/Coursera-DE-C2-shell-variables)
+
 ##### Standard Streams: Using Standard In, Standard Out, Standard Erro
 ##### Final Project
 * [Coursera-DE-C2-Lab2-Using-Bash-IO](https://github.com/noahgift/Coursera-DE-C2-Lab2-Using-Bash)
