@@ -36,7 +36,7 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 #### Week 3:  Building Bash Scripts
 ##### Use Shell Logic and Control Flow
 
-
+* [Coursera-DE-C2-Lab2-Use-Shell-Logic-and-Control-Flow](https://github.com/noahgift/Coursera-DE-C2-Use-Shell-Logic-and-Control-Flow)
 
 ##### Manipulate Data With The Shell
 ##### Write Bash scripts and command-line tools
