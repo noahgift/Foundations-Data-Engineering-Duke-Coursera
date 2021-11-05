@@ -15,7 +15,7 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 
 ##### Using SSH
 ##### Final Project
-* [Coursera-DE-C2-Lab1-Linux-Truncate Large File With Bash](https://github.com/noahgift/coursera-de-c2-lab1-linux)
+* TBD
 
 #### Week 2:  Using Bash
 ##### Configuring the Shell Environment
@@ -39,6 +39,9 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 * [Coursera-DE-C2-Lab2-Use-Shell-Logic-and-Control-Flow](https://github.com/noahgift/Coursera-DE-C2-Use-Shell-Logic-and-Control-Flow)
 
 ##### Manipulate Data With The Shell
+
+* [Coursera-DE-C2-Lab1-Linux-Truncate Large File With Bash](https://github.com/noahgift/coursera-de-c2-lab1-linux)
+
 ##### Write Bash scripts and command-line tools
 ##### Final Project
 * [Coursera-DE-C2-Lab3-Building-Bash-Scripts-CLI](https://github.com/noahgift/Coursera-DE-C2-Lab3-Building-Bash-Scripts)
