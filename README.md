@@ -43,6 +43,9 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 * [Coursera-DE-C2-Lab1-Linux-Truncate Large File With Bash](https://github.com/noahgift/coursera-de-c2-lab1-linux)
 
 ##### Write Bash scripts and command-line tools
+
+* [Coursera-DE-C2-CLI-Reverse-String](https://github.com/noahgift/Coursera-DE-C2-bash-cli-reverse-string)
+
 ##### Final Project
 * [Coursera-DE-C2-Lab3-Building-Bash-Scripts-CLI](https://github.com/noahgift/Coursera-DE-C2-Lab3-Building-Bash-Scripts)
 
