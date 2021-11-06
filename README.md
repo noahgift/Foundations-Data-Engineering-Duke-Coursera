@@ -55,7 +55,13 @@ This is a repository that holds labs for the 2022 Duke Coursera Data Engineering
 * [Coursera-DE-C2-search-commands](https://github.com/noahgift/Coursera-DE-C2-search-commands)
 
 ##### Modifying Files, Directories, Permissions and Archiving
+
+* [Coursera-DE-C2-Files-Directories-Permissions](https://github.com/noahgift/Coursera-DE-C2-Files-Directories-Permissions)
+
 ##### Processing Text
+
+* [Coursera-DE-C2-using-regex-search](https://github.com/noahgift/Coursera-DE-C2-using-regex-search)
+
 ##### Final Project
 * [Coursera-DE-C2-Lab4-Composing-File-Data-Solutions](https://github.com/noahgift/Coursera-DE-C2-Lab4-Composing-File-Data-Solutions)
 
